@@ -4,4 +4,6 @@
 
 void main() {
 	printf("Bonjour");
+	trdygu
+		hhfjg
 }
